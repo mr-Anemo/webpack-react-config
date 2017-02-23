@@ -1,0 +1,21 @@
+{
+  "name": "react-project-bower-components",
+  "description": "",
+  "main": "",
+  "authors": [
+    "nsluny@gmail.com"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/mr-Anemo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "html5shiv": "^3.7.3",
+    "font-awesome": "Font-Awesome#^4.7.0"
+  }
+}

@@ -11,8 +11,9 @@
       "react"
     ]
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["react", "webpack"],
+  "author": "nsluny@gmail.com",
+  "homepage": "https://github.com/mr-Anemo",
   "license": "ISC",
   "dependencies": {
     "react": "^15.4.2",
